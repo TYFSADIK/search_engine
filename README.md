@@ -1,8 +1,3 @@
-Here’s your full `README.md` content — ready to **copy and paste**:
-
----
-
-````markdown
 # 🌐 Self-Hosted SearXNG with Cloudflare Tunnel
 
 This project sets up [SearXNG](https://github.com/searxng/searxng) — a powerful, privacy-respecting metasearch engine — using Docker and makes it securely accessible over the internet using a **Cloudflare Tunnel** and your custom domain.
@@ -36,7 +31,7 @@ This project sets up [SearXNG](https://github.com/searxng/searxng) — a powerfu
 ```bash
 git clone https://github.com/YOUR_USERNAME/searxng-selfhost.git
 cd searxng-selfhost
-````
+
 
 ### 2. Customize your domain
 
