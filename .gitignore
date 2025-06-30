@@ -1,0 +1,37 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Python cache and virtualenv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# Docker-related
+*.log
+*.pid
+*.sock
+*.tar
+*.gz
+*.tmp
+
+# Docker volumes or build data
+searxng_data/
+caddy_data/
+caddy_config/
+
+# Cloudflared secrets
+*.pem
+*.json
+.cloudflared/
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# OS junk
+*.swp
+*~
