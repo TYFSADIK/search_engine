@@ -16,6 +16,16 @@ This project sets up [SearXNG](https://github.com/searxng/searxng) — a powerfu
 
 ---
 
+## 🛡 Why This Matters
+
+- 🔐 **100% Private Search**: SearXNG aggregates search results from multiple engines **without tracking your queries**, storing your data, or profiling you.
+- 🕵️‍♂️ **Complete Privacy**: Using Cloudflare Tunnel and HTTPS, **nobody else can see what you’re searching** — not your ISP, not Google, and not third parties.
+- 🚫 **No Ads or Trackers**: Enjoy an ad-free, tracker-free search experience that respects your privacy.
+- 🌍 **Open Source & Self-Hosted**: You control your search engine, including branding, themes, and data.
+- 🚀 **Secure & Accessible Anywhere**: Thanks to Cloudflare Tunnel, your private search is available globally without exposing your network or needing complex port forwarding.
+
+---
+
 ## 🛠️ Prerequisites
 
 - A domain name managed by [Cloudflare](https://cloudflare.com)
