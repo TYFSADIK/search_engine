@@ -170,7 +170,7 @@ searxng-selfhost/
 
 ## 📜 License
 
-This project is open-source, under the [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html) license (inherited from SearXNG).
+This project is open-source, under the [MIT](https://en.wikipedia.org/wiki/MIT_License) license.
 
 ---
 
@@ -190,5 +190,5 @@ Feel free to open an issue or contact [@tyfsadik](https://github.com/tyfsadik).
 
 ---
 
-Let me know when you want to add screenshots, deploy instructions, or a GitHub Pages landing site!
+
 ```
